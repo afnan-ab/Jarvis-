@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Cybernetic Brow & Crest -->
+    <path
+        android:fillColor="#E0E0E6"
+        android:pathData="M38,34 L54,26 L70,34 L78,46 L74,58 L68,68 L54,78 L40,68 L34,58 L30,46 Z" />
+    
+    <!-- Dark Titanium Inner Inset -->
+    <path
+        android:fillColor="#15151C"
+        android:pathData="M41,38 L54,32 L67,38 L73,48 L69,57 L65,65 L54,73 L43,65 L39,57 L35,48 Z" />
+
+    <!-- Center Bridge & Temples -->
+    <path
+        android:fillColor="#2D2D38"
+        android:pathData="M52,32 L56,32 L56,52 L52,52 Z" />
+
+    <!-- Ultron Angled Glowing Crimson Eyes -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M40,46 L50,51 L48,54 L38,49 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M41,47 L49,51 L48,53 L40,49 Z" />
+
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M68,46 L58,51 L60,54 L70,49 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M67,47 L59,51 L60,53 L68,49 Z" />
+
+    <!-- Glowing Core Processor / Mouth Slit Grid -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M48,60 L60,60 L58,63 L50,63 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M46,65 L62,65 L59,68 L49,68 Z" />
+
+    <!-- Cybernetic circuitry conduits -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,26 L54,21 M34,58 L27,62 M74,58 L81,62 M54,78 L54,85"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FF2A4D" />
+</vector>

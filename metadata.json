@@ -1,0 +1,6 @@
+{
+  "name": "Ultron",
+  "description": "Autonomous AI assistant managing server infrastructure, real-time resource allocation, voice operations, and phone automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
